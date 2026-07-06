@@ -13,21 +13,13 @@
 ## 🛠️ Tecnologias
 
 **Linguagens**
-- Java
-- C
-- SQL
+- Java, C, SQL.
 
 **Frameworks e Ferramentas**
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- Maven
-- Git
-- GitHub
+- Spring Boot, Spring Data JPA, Hibernate, Maven, Git e GitHub.
 
 **Banco de Dados**
-- PostgreSQL
-- MySQL
+PostgreSQL e MySQL.
 
 ---
 
